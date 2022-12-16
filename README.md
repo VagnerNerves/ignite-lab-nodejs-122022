@@ -29,6 +29,7 @@ In this project I learned:
 - I learned how to create routes.
 - I used prima with the SQLite database
 - I learned to validate the routes.
+- Build tests decoupled from the database
 
 ## 💡 Technologies used
 
