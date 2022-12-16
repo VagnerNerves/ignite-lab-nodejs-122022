@@ -2,21 +2,33 @@
   <img alt="IgniteLab NodeJS - Notifications" title="IgniteLab NodeJS - Notifications" src="./src/assets/Logo-IgniteLab-NodeJS.svg" />
 </h1>
 
-🚧 Project under construction 🚧
+Backend project created for consumption of Notifications where they will have the routes of:
+
+- Create the Notification
+- Cancel Sent Notification.
+- Mark notification reading.
+- Uncheck notification reading.
+- Count the notifications of a recipient
+- Fetch notifications from a recipient.
 
 <!-- ## 🎨 Layout
 
 Layout developed by [Name](https://www.instagram.com/urlName/)
 
-[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](https://www.figma.com/files)
+[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](https://www.figma.com/files) -->
 
 ## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself.
+...
 
 ## 👏 Learning and more implementations
 
-Describe what you learned and implemented in the project. -->
+In this project I learned:
+
+- I learned how to create a project with Nest.js.
+- I learned how to create routes.
+- I used prima with the SQLite database
+- I learned to validate the routes.
 
 ## 💡 Technologies used
 
@@ -77,10 +89,11 @@ Start the server
 ```bash
   npm run start
 ```
+-->
 
 ## 📝 Routes
 
-[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link) -->
+[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://god.postman.co/run-collection/5bfbf5906d74a5e20b9a?action=collection%2Fimport)
 
 ## 🌎 License
 
